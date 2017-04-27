@@ -68,4 +68,6 @@ target project folder to install dependency.
 ## Usage
 using chrome or ther browser open index.html.
 
-[<img src="https://github.com/DaqingFeng/Webpack2.0_Usage/blob/master/sample.png">](the running like.)
+the running like
+
+<img src="https://github.com/DaqingFeng/Webpack2.0_Usage/blob/master/sample.png">
