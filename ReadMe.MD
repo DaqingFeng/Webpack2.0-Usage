@@ -50,7 +50,7 @@ but webpack 2.0 ,if easily to realize config import thirdparty  compoment then b
             exclude: /node_modules/
         }]
     }
-    ```
+```
 Obviouslly webpack 2.0 config is easily then 1.0 .
 
 this is webpack2.0 usage of Angularjs and jquery.
@@ -58,7 +58,7 @@ this is webpack2.0 usage of Angularjs and jquery.
 
 ## Installation
 * Install  [node](https://nodejs.org)
-*  `npm install  webpack --global `
+* `npm install  webpack --global `
 
 target project folder to install dependency.
 *  `npm install `
@@ -66,5 +66,6 @@ target project folder to install dependency.
 
 
 ## Usage
+using chrome or ther browser open index.html.
 
-* project folder run `grunt` to start task.
+[<img src="https://github.com/DaqingFeng/Webpack2.0_Usage/blob/master/sample.png">](the running like.)
