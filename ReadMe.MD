@@ -1,7 +1,8 @@
 # Webpack 2.4.1 Usage
 
-When we using webpack 1.0x ,if we want to load js file . we need config loaders to support import thirdparty compoment.
- the web config like 
+previously i used webpack 1.0x ,if i want to load js file . i need config loaders to support import thirdparty compoment.
+
+the web config like 
 
 ```javascript
     module: {
@@ -36,7 +37,7 @@ When we using webpack 1.0x ,if we want to load js file . we need config loaders 
 
 
 
-but webpack 2.0 ,if easily to realize config import thirdparty  compoment then before.
+but webpack 2.0 ,it's easily to realize config import thirdparty compoment then before.
 
 ```javascript
     module: {
@@ -66,7 +67,7 @@ target project folder to install dependency.
 
 
 ## Usage
-using chrome or ther browser open index.html.
+using chrome or other browser open index.html.
 
 the running like
 
